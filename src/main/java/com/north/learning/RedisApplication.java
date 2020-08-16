@@ -1,4 +1,4 @@
-package com.north.learning.redis;
+package com.north.learning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
